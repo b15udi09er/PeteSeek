@@ -1,0 +1,14 @@
+{
+    "channels": {
+        "status": 1374489567314575480,
+        "response": [1340452827213987903],
+        "status_message_id": 1376104194796290058
+    },
+    "permissions": {
+        "admin_roles": ["Admin"],
+        "blocked_users": []
+    },
+    "system": {
+        "primary_location": "Chouf, Baakline, Lebanon"
+    }
+}

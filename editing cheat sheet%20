@@ -1,0 +1,9 @@
+if you want to edit or change things to peteseek here is the way
+
+config/settings.json --> Channel IDs, and admin roles
+
+core/ai_engine.py   ---> Model parameters, and ai behavior
+
+core/permissions.py ---> Channel rules, and Access control
+
+discord_bot.py      ---> Event handlers, and bot workflow

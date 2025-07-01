@@ -1,0 +1,32 @@
+2025-05-25 10:37:28,189 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-25 10:37:30,804 - discord.client - INFO - logging in using static token
+2025-05-25 10:37:32,539 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c9a7827f8ade24c1ef1a98c1d234a2e).
+2025-05-25 10:37:34,550 - root - INFO - Logged in as PeteSeek#7550
+2025-05-25 10:39:39,616 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-25 10:39:42,511 - discord.client - INFO - logging in using static token
+2025-05-25 10:39:44,219 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ffbbf7853ccfc14016d5861f33f08757).
+2025-05-25 10:39:46,231 - root - INFO - Logged in as PeteSeek#7550
+PyNaCl is not installed, voice will NOT be supported
+logging in using static token
+Shard ID None has connected to Gateway (Session ID: 9d5be058bd310c1b61304ae3c99ce257).
+2025-05-25 12:18:11,108 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2025-05-25 12:18:11,116 | INFO | logging in using static token
+2025-05-25 12:18:12,565 | INFO | Shard ID None has connected to Gateway (Session ID: 4848144d308d4bcb781fbe3511cfb7d6).
+2025-05-25 12:18:14,577 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:18:14,998 | INFO | Synced 3 commands
+2025-05-25 12:19:14,600 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:40:07,734 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2025-05-25 12:40:07,744 | INFO | logging in using static token
+2025-05-25 12:40:09,757 | INFO | Shard ID None has connected to Gateway (Session ID: fa7c632d9eb7bc1e6c58483c6a02d925).
+2025-05-25 12:40:12,157 | INFO | Synced 3 commands
+2025-05-25 12:40:12,158 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:41:12,170 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:42:12,210 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:43:12,218 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:44:12,221 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:45:12,226 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:46:12,262 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:47:12,274 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:48:12,305 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:49:12,313 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
+2025-05-25 12:50:12,341 | INFO | Checked PeteSeek-1 in Chouf, Baakline, Lebanon
