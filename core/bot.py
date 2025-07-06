@@ -167,14 +167,19 @@ if __name__ == "__main__":
             border_style="green"
         ))
         
-        # Token validation
-        token_path = Path(__file__).parent.parent / "config/token.txt"
-        with open(token_path) as f:
-            token = f.read().strip()
-            if not token.startswith("MT"):
-                console.print("[red]Invalid token format![/red]")
-                sys.exit(1)
-                
+        # Load token from .env (secure)
+        from dotenv import load_dotenv
+        import os
+        
+        load_dotenv()  # Load .env file
+        token = os.getenv("DISCORD_TOKEN")
+        
+        # Validate token format
+        if not token or not token.startswith("MT"):
+            console.print("[red]Invalid or missing token![/red]")
+            console.print("[yellow]Ensure .env exists with DISCORD_TOKEN=your_token[/yellow]")
+            sys.exit(1)
+            
         bot.run(token)
         
     except KeyboardInterrupt:
